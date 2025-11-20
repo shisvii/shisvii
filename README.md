@@ -1,12 +1,12 @@
 <div align="center">
   
-  # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+shisvi;Welcome+to+my+profile)](https://git.io/typing-svg)
+  # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Wacho;Welcome+to+my+profile)](https://git.io/typing-svg)
   
   <p align="center">
     <a href="https://discord.com/users/995503552627744789">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
-    <a href="mailto:shisvii@warzonnodes.lat">
+    <a href="mailto:notwacho@gmail.com">
       <img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://github.com/shisvii">
@@ -22,12 +22,12 @@
 </div>
 
 ```javascript
-const shisvi = {
+const Wacho = {
   age: 22,
   location: "Chile",
   interests: ["Programming", "Game Development", "Technology"],
   currentlyLearning: ["Kotlin", "C#", "java"],
-  contact: "Code/shisvii"
+  contact: "notWacho."
 };
 ```
 
@@ -40,12 +40,12 @@ const shisvi = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shisvii&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=0d1117" height="170" alt="shisvii GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shisvii&layout=compact&hide_border=true&title_color=00BFFF&text_color=FFFFFF&bg_color=0d1117" height="170" alt="shisvii top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NotWacho&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=0d1117" height="170" alt="NotWacho GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotWacho&layout=compact&hide_border=true&title_color=00BFFF&text_color=FFFFFF&bg_color=0d1117" height="170" alt="shisvii top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shisvii&theme=github_dark&hide_border=true&title_color=00BFFF&text_color=FFFFFF" alt="Activity summary" width="840"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NotWacho&theme=github_dark&hide_border=true&title_color=00BFFF&text_color=FFFFFF" alt="Activity summary" width="840"/>
 </div>
 
 ---
@@ -78,7 +78,7 @@ const shisvi = {
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shisvii&color=00BFFF&style=for-the-badge" alt="Profile views counter"/>
+  <img src="https://komarev.com/ghpvc/?username=NotWacho&color=00BFFF&style=for-the-badge" alt="Profile views counter"/>
 </div>
 
 <div align="center">
