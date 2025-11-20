@@ -3,7 +3,7 @@
   # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+shisvi;Welcome+to+my+profile)](https://git.io/typing-svg)
   
   <p align="center">
-    <a href="https://discord.com/users/1115661153448775711">
+    <a href="https://discord.com/users/995503552627744789">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
     <a href="mailto:shisvii@warzonnodes.lat">
@@ -67,7 +67,7 @@ const shisvi = {
 </div>
 
 <p align="center">
-  <a href="https://discord.com/users/1115661153448775711" target="_blank" rel="nofollow">
+  <a href="https://discord.com/users/995503552627744789" target="_blank" rel="nofollow">
     <img src="https://lanyard-profile-readme.vercel.app/api/1115661153448775711?&animated=true&borderRadius=20px&idleMessage=Probably%20coding%20something%20cool..." alt="Discord Presence" align="center">
   </a>
 </p>
