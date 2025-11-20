@@ -67,8 +67,7 @@ const shisvi = {
 </div>
 
 <p align="center">
-  <a href="https://discord.com/users/995503552627744789" target="_blank" rel="nofollow">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1115661153448775711?&animated=true&borderRadius=20px&idleMessage=Probably%20coding%20something%20cool..." alt="Discord Presence" align="center">
+<img src="https://lanyard.cnrad.dev/api/995503552627744789"/>>
   </a>
 </p>
 
