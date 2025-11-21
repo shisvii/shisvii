@@ -24,7 +24,7 @@
 ```javascript
 const Wacho = {
   age: 22,
-  location: "Chile",
+  location: "Mx",
   interests: ["Programming", "Game Development", "Technology"],
   currentlyLearning: ["Kotlin", "C#", "java"],
   contact: "notWacho."
