@@ -67,7 +67,7 @@ const Wacho = {
 </div>
 
 <p align="center">
-<img src="https://api.lanyard.rest/v1/users/995503552627744789"/>>
+<img src="https://lanyard.cnrad.dev/api/995503552627744789"/>>
   </a>
 </p>
 
